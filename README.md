@@ -16,3 +16,5 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsdtve&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsdtve&show_icons=true)
